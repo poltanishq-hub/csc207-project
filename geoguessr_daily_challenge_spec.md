@@ -28,7 +28,7 @@ The initial version should prioritize a complete, reliable end-to-end flow over 
 ### Four core user stories (one lead per developer)
 
 1. **US-1 — Account access (P3):** As a player, I want to register and log in so that my identity, scores, and friends persist between sessions.
-2. **US-2 — Play today's challenge (P2):** As a player, I want to make one location guess in each of five rounds so that I can earn a daily score.
+2. **US-2 — Play today's challenge (P2):** As a player, I want to make a location guess on a map based on a picture prompt in each of five rounds so that I can earn a daily score.
 3. **US-3 — Review my challenge performance (P4):** As a player, I want to see the score, distance, guess, and target for every round after I finish so that I can understand how I performed.
 4. **US-4 — Compare with other players (P1):** As a player, I want to compare today's score on the global and friends leaderboards so that I can see how I rank; I also need a simple way to add or remove friends.
 
