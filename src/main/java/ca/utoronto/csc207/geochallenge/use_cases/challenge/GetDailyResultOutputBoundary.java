@@ -1,4 +1,4 @@
-package ca.utoronto.csc207.geochallenge.use_cases.auth.challenge;
+package ca.utoronto.csc207.geochallenge.use_cases.challenge;
 
 /**
  * The output boundary for the "get daily result" use case.

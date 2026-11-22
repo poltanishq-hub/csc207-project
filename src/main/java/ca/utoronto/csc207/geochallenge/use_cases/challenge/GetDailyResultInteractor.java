@@ -1,4 +1,4 @@
-package ca.utoronto.csc207.geochallenge.use_cases.auth.challenge;
+package ca.utoronto.csc207.geochallenge.use_cases.challenge;
 import ca.utoronto.csc207.geochallenge.entities.DailyResult;
 
 import java.time.LocalDate;
