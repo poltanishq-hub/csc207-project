@@ -1,7 +1,9 @@
 package ca.utoronto.csc207.geochallenge.use_cases.auth.challenge;
 import ca.utoronto.csc207.geochallenge.entities.DailyResult;
+import ca.utoronto.csc207.geochallenge.use_cases.challenge.ResultRepository;
 
 import java.time.LocalDate;
+import java.util.Optional;
 import java.util.UUID;
 
 /**
